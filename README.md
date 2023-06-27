@@ -20,7 +20,7 @@ Description: The main screen shows the list of available rooms.
 **Screenshot 2**
 Description: Room details with a search bar for filtering the rooms.
 
-![Image](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/widgets.JPG)
+![Image](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/searchbar.JPG)
 
 **Screenshot 3**
 Description: Date picker dialog for selecting the reservation date.
