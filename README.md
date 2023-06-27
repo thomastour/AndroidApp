@@ -12,13 +12,13 @@ Provide a user-friendly interface with icons and navigation options.
 
 
 **Screenshot 1**
-Description: The main screen shows the list of available rooms.
+Description: The main screen.
 
 ![Image](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/widgets.JPG)
 
 
 **Screenshot 2**
-Description: Room details with a search bar for filtering the rooms.
+Description: Rooms  with a search bar for filtering the rooms.
 
 ![Image](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/searchbar.JPG)
 
