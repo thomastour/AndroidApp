@@ -14,7 +14,7 @@ Provide a user-friendly interface with icons and navigation options.
 **Screenshot 1**
 Description: The main screen shows the list of available rooms.
 
-![Image]([widgets.JPG](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/widgets.JPG))
+![Image](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/widgets.JPG)
 
 
 **Screenshot 2**
