@@ -14,6 +14,9 @@ Provide a user-friendly interface with icons and navigation options.
 **Screenshot 1**
 Description: The main screen shows the list of available rooms.
 
+![Image](widgets.JPG)
+
+
 **Screenshot 2**
 Description: Room details with a search bar for filtering the rooms.
 
