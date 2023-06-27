@@ -24,7 +24,7 @@ Description: Date picker dialog for selecting the reservation date.
 To run this application on your local machine, follow these steps:
 
 - Clone this repository to your local machine.
-- 
+
 - Open the project in Android Studio.
-- 
+  
 - Build and run the application on an Android device or emulator.
