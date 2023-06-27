@@ -1,4 +1,4 @@
-# WidgetsApp
+# AndroidApp
 
 This App demonstrates the usage of various widgets and functionalities like Rating Bar. 
 In this project, I also implement Search Functionality in RecyclerView and a date picker dialog for the reservation date.
