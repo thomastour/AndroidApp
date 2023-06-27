@@ -20,8 +20,12 @@ Description: The main screen shows the list of available rooms.
 **Screenshot 2**
 Description: Room details with a search bar for filtering the rooms.
 
+![Image](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/widgets.JPG)
+
 **Screenshot 3**
 Description: Date picker dialog for selecting the reservation date.
+
+![Image](https://github.com/thomastour/WidgetsApp/blob/main/readme_pics/date_picker.JPG)
 
 **Getting Started**
 To run this application on your local machine, follow these steps:
